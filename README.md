@@ -36,7 +36,7 @@ A/B Test
 
 合成控制法(SCM)
 
-因果树(Causal Tree)
+因果树(Causal Tree) / 因果森林（Causal Forest）
 
 ## 8. 机器学习
 
